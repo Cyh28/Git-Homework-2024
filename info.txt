@@ -1,3 +1,3 @@
 班级：sysu software engineering grade one class four
 学号：24336150
-班级最后一位加上学号最后一位等于：6
+班级最后一位加上学号最后一位等于：7
